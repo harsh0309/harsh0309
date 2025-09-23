@@ -25,8 +25,12 @@
 ## 📊 GitHub Stats
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh0309&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 📈 Activity Graph
-![Harsh's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=harsh0309&theme=github)
+## 📊 GitHub Stats
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh0309&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh0309&theme=radical)
+
 
 ## 📬 Connect with Me
 - Email: harsh.chandrawanshi0307@gmail.com
