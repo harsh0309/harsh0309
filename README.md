@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🚀 Projects
-- **Linked List Stack Implementation** – C++ implementation of a stack using linked list with push, pop, peek, and overflow/underflow handling
+- **Linked List Stack Implementation** – C++ implementation 
 - **Other small projects** – Check my repositories for more
 
 ## 📊 GitHub Stats
@@ -29,7 +29,7 @@
 ![Harsh's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=harsh0309&theme=github)
 
 ## 📬 Connect with Me
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Email: harsh.chandrawanshi0307@gmail.com
+- LinkedIn: [linkedin.com/in/harsh-chandrawanshi](https://www.linkedin.com/in/harsh-chandrawanshi/)
+
 
