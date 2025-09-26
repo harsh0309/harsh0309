@@ -22,6 +22,12 @@
 - **Linked List Stack Implementation** – C++ implementation 
 - **Other small projects** – Check my repositories for more
 
+- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ayush-Rajput&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ayush-Rajput&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Rajput&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ## 📬 Connect with Me
 - Email: harsh.chandrawanshi0307@gmail.com
 - LinkedIn: [linkedin.com/in/harsh-chandrawanshi](https://www.linkedin.com/in/harsh-chandrawanshi/)
