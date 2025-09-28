@@ -1,4 +1,4 @@
-<a href="https://github.com/harsh0309">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
     <img alt="Harsh's GitHub Profile README" src="light_mode.svg">
